@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FF;
-	background-color: #AD9CCD;
+	color: #00000E;
+	background-color: #4DCA9C;
 }
 
 #page
@@ -270,7 +270,8 @@
 {
 	z-index: 12;
 	min-height: 902px;
-	background: #ED1C24 url("../images/panel2lia.jpg") no-repeat left top;
+	background: #ED1C24 url("../images/panel2lia.jpg") no-repeat center top;
+	background-size: cover;
 }
 
 #u6340_align_to_page
@@ -520,6 +521,7 @@
 	min-height: 70px;
 	padding-bottom: 802px;
 	background: transparent url("../images/site6panel.jpg") no-repeat center top;
+	background-size: cover;
 }
 
 #scholarships
@@ -607,6 +609,7 @@
 	min-height: 872.9999999999993px;
 	padding-bottom: 0px;
 	background: transparent url("../images/panel7%20copy.jpg") no-repeat center top;
+	background-size: cover;
 }
 
 #u6433_align_to_page
@@ -1166,6 +1169,7 @@
 	min-height: 759.6500000000005px;
 	padding-bottom: 0px;
 	background: #C1272D url("../images/testipanel.jpg") no-repeat center top;
+	background-size: cover;
 }
 
 #u7016_align_to_page

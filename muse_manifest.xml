@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.liasite.com" resolutions="1x" timestamp="1492455977366">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.liasite.com" resolutions="1x" timestamp="1492456391984">
   <folder name="css">
     <file name="site_global.css" crc="144842789"/>
-    <file name="index.css" crc="4289567949" ref="index"/>
+    <file name="index.css" crc="239979164" ref="index"/>
     <file name="iefonts_index.css" crc="3855183371" ref="index"/>
   </folder>
   <folder name="assets">
@@ -44,5 +44,5 @@
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="testipanel.jpg" crc="4005921082" ref="index"/>
   </folder>
-  <file name="index.html" crc="3894514284" seo="true" mt="1492455951088" redirect="true"/>
+  <file name="index.html" crc="144823471" seo="true" mt="1492456367810" redirect="true"/>
 </manifest>
