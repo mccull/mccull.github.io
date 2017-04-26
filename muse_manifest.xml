@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.liasite.com" resolutions="1x" timestamp="1493047975360">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.liasite.com" resolutions="1x" timestamp="1493219739871">
   <folder name="css">
     <file name="site_global.css" crc="144842789"/>
-    <file name="index.css" crc="3759524514" ref="index"/>
+    <file name="index.css" crc="227233184" ref="index"/>
     <file name="iefonts_index.css" crc="303271671" ref="index"/>
   </folder>
   <folder name="assets">
@@ -60,5 +60,5 @@
     <file name="odessa.png" crc="3861009907" seo="true" ref="index"/>
     <file name="schoolpanel.jpg" crc="4043896128" ref="index"/>
   </folder>
-  <file name="index.html" crc="3964914251" seo="true" mt="1493047950665" redirect="true"/>
+  <file name="index.html" crc="4106228976" seo="true" mt="1493219693108" redirect="true"/>
 </manifest>
