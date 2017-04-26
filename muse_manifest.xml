@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.liasite.com" resolutions="1x" timestamp="1493219739871">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.liasite.com" resolutions="1x" timestamp="1493221993756">
   <folder name="css">
     <file name="site_global.css" crc="144842789"/>
-    <file name="index.css" crc="227233184" ref="index"/>
-    <file name="iefonts_index.css" crc="303271671" ref="index"/>
+    <file name="index.css" crc="3950592708" ref="index"/>
+    <file name="iefonts_index.css" crc="3892152978" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="lia-homestay-vs.-residence--english-.pdf" crc="4118395938" seo="true" mt="1493047010000"/>
@@ -11,6 +11,10 @@
     <file name="lia-agent-agreement.pdf" crc="153830637" seo="true" mt="1493047014000"/>
     <file name="fee-schedule-2016-2017.pdf" crc="3822036673" seo="true" mt="1493047023000"/>
     <file name="londonskylinevideo.mp4" crc="192784624" seo="true" mt="1493047597000"/>
+    <file name="why--lia-revised-2017.pdf" crc="4163848121" seo="true" mt="1493221684000"/>
+    <file name="why--london-revised-2017.pdf" crc="73600406" seo="true" mt="1493221668000"/>
+    <file name="lia-application-form-2016-2017-(1).pdf" crc="29584118" seo="true" mt="1493221638000"/>
+    <file name="london-international-academy-fee-schedule-2016-2017.pdf" crc="195206564" seo="true" mt="1493221610000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
@@ -60,5 +64,5 @@
     <file name="odessa.png" crc="3861009907" seo="true" ref="index"/>
     <file name="schoolpanel.jpg" crc="4043896128" ref="index"/>
   </folder>
-  <file name="index.html" crc="4106228976" seo="true" mt="1493219693108" redirect="true"/>
+  <file name="index.html" crc="4197212176" seo="true" mt="1493221960955" redirect="true"/>
 </manifest>
