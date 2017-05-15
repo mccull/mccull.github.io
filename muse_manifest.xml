@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.liasite.com" resolutions="1x" timestamp="1493221993756">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.liasite.com" resolutions="1x" timestamp="1494862896619">
   <folder name="css">
     <file name="site_global.css" crc="144842789"/>
-    <file name="index.css" crc="3950592708" ref="index"/>
-    <file name="iefonts_index.css" crc="3892152978" ref="index"/>
+    <file name="index.css" crc="473944353" ref="index"/>
+    <file name="iefonts_index.css" crc="4280167409" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="lia-homestay-vs.-residence--english-.pdf" crc="4118395938" seo="true" mt="1493047010000"/>
@@ -15,6 +15,8 @@
     <file name="why--london-revised-2017.pdf" crc="73600406" seo="true" mt="1493221668000"/>
     <file name="lia-application-form-2016-2017-(1).pdf" crc="29584118" seo="true" mt="1493221638000"/>
     <file name="london-international-academy-fee-schedule-2016-2017.pdf" crc="195206564" seo="true" mt="1493221610000"/>
+    <file name="london-international-academy---day-in-the-life.mov" crc="509793877" seo="true" mt="1494861133000"/>
+    <file name="lia-agent-agreement-updated-mar-2017.pdf" crc="4213845627" seo="true" mt="1494862029000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
@@ -30,20 +32,20 @@
     <file name="jquery.scrolleffects.js" crc="4219894366" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="whitelogolia.png" crc="3966361234" seo="true" ref="index"/>
+    <file name="lialogo.png" crc="3808846789" seo="true" ref="index"/>
     <file name="block1site.jpg" crc="3949737199" ref="index"/>
     <file name="panel2lia.jpg" crc="3853947418" ref="index"/>
-    <file name="culturalexc.jpg" crc="478736973" ref="index"/>
-    <file name="long term.jpg" crc="4280986984" ref="index"/>
-    <file name="image92.jpg" crc="360522974" ref="index"/>
+    <file name="panelpro1.jpg" crc="509822534" ref="index"/>
+    <file name="panel2pro.jpg" crc="213241188" ref="index"/>
+    <file name="panel3.jpg" crc="481088625" ref="index"/>
     <file name="site6panel.jpg" crc="426320149" ref="index"/>
-    <file name="liaimage2site.png" crc="4210185494" seo="true" ref="index"/>
-    <file name="panel7 copy.jpg" crc="508197110" ref="index"/>
+    <file name="panel2328.jpg" crc="53101348" ref="index"/>
     <file name="book-and-pen.png" crc="3978241312" seo="true" ref="index"/>
     <file name="paint-board-and-brush.png" crc="3821046020" seo="true" ref="index"/>
     <file name="users-group.png" crc="303040937" seo="true" ref="index"/>
     <file name="artificial-intelligence.png" crc="275817548" seo="true" ref="index"/>
     <file name="trophy-cup-silhouette.png" crc="345946489" seo="true" ref="index"/>
+    <file name="liaimage2site.png" crc="4210185494" seo="true" ref="index"/>
     <file name="panelgall.jpg" crc="4200804962" ref="index"/>
     <file name="logo.jpg" crc="3990623120" ref="index"/>
     <file name="londonmorning (3).jpg" crc="371547959" ref="index"/>
@@ -63,6 +65,7 @@
     <file name="eren.png" crc="235874611" seo="true" ref="index"/>
     <file name="odessa.png" crc="3861009907" seo="true" ref="index"/>
     <file name="schoolpanel.jpg" crc="4043896128" ref="index"/>
+    <file name="whitelogolia.png" crc="3966361234" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4197212176" seo="true" mt="1493221960955" redirect="true"/>
+  <file name="index.html" crc="46095174" seo="true" mt="1494862832417" redirect="true"/>
 </manifest>
