@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.liasite.com" resolutions="1x" timestamp="1494863655943">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.liasite.com" resolutions="1x" timestamp="1494863779259">
   <folder name="css">
     <file name="site_global.css" crc="144842789"/>
-    <file name="index.css" crc="473944353" ref="index"/>
+    <file name="index.css" crc="70454786" ref="index"/>
     <file name="iefonts_index.css" crc="4280167409" ref="index"/>
   </folder>
   <folder name="assets">
@@ -67,5 +67,5 @@
     <file name="schoolpanel.jpg" crc="4043896128" ref="index"/>
     <file name="whitelogolia.png" crc="3966361234" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="46095174" seo="true" mt="1494862832417" redirect="true"/>
+  <file name="index.html" crc="4278357288" seo="true" mt="1494863767641" redirect="true"/>
 </manifest>
